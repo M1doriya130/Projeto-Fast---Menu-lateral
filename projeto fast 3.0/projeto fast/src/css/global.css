@@ -1,0 +1,44 @@
+body{
+    font-family: 'Fira Sans', sans-serif;  
+}
+
+header{
+
+    display:flex;
+    padding-left: 40px;
+    align-items: center;
+    background: #353544;
+    padding: 50px;
+}
+.logo{
+    position: absolute;
+    right: 0;
+    padding-right: 40px;
+    
+}
+
+footer{
+    background-color: #353544;
+}
+
+.rodape {
+    justify-content: space-between;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+
+}
+.informacoes {
+    display: flex;
+} 
+
+.informacoes li{
+    list-style: none;
+    letter-spacing: 3px;
+    margin-left: 32px;
+} 
+
+
+
+
+
